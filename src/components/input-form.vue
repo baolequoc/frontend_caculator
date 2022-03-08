@@ -8,7 +8,6 @@
              focus:ring-indigo-500 focus:border-indigo-500 focus:z-10 sm:text-sm" :placeholder="label"
              >
         </div>
-    
 </template> 
 
 <script>
